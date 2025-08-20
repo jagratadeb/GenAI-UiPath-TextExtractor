@@ -60,6 +60,17 @@ Due Date: <due date will go here>
 - You can modify the prompt for different kinds of data extraction.
 - Add error handling for production scenarios.
 
+## 🔮 Future Use Cases & Enhancements
+
+### This UiPath GenAI TextExtractor project can evolve into a powerful automation tool for various scenarios, including:
+
+- **Automated Billing & Payments:** Extract and process billing details for auto-updates and payment reminders in financial systems.
+- **Document Digitization:** Automate data entry from scanned forms, invoices, and contracts, reducing manual effort.
+- **Multi-language & Format Support:** Expand OCR and AI capabilities to handle diverse languages and document types.
+- **AI-powered Data Validation:** Automatically verify extracted data for accuracy and detect anomalies.
+- **Scalable Batch Processing:** Enable large-scale document handling with asynchronous workflows and cloud integration.
+- **Intelligent Search & Summarization:** Store extracted info for semantic search and generate document summaries for quick insights.
+
 ## 📄 License
 
 This project is provided as-is for educational purposes.
